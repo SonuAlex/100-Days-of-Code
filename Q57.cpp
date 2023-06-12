@@ -21,4 +21,4 @@ public:
             arr[i] = res[i];
         }
     }
-};
+}
